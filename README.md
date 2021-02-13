@@ -12,4 +12,4 @@ livewire paketini uzun süredir deneyimlemek istiyordum.boşluklarda yarım yama
 - php artisan migrate:fresh --seed
 - giriş için: mail@mail.com - 123456789
 
-![test](https://media.giphy.com/media/f7H8nhBzolmNObYJw2/giphy.gif)
+![test](https://i.imgur.com/67rWWDM.gif)
