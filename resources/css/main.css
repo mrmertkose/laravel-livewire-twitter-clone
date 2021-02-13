@@ -1,0 +1,198 @@
+body, html {
+    background-color: #15202b;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: inherit;
+    cursor: pointer;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+li {
+    text-decoration: none;
+}
+
+.main-color {
+    background-color: #15202b !important;
+}
+
+.border-custom {
+    border-color: #38444d !important;
+}
+
+.fa-size-custom {
+    font-size: 1.3em;
+}
+
+.left-sidebar > a:hover {
+    box-shadow: 0 0 0 10px rgba(29, 161, 242, 0.1);
+    background-color: rgba(29, 161, 242, 0.1);
+    border-radius: 10%;
+}
+
+.active-custom {
+    box-shadow: 0 0 0 10px rgba(29, 161, 242, 0.1);
+    background-color: rgba(29, 161, 242, 0.1);
+    border-radius: 10%;
+}
+
+.left-sidebar-text {
+    font-size: 19px;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+    background-color: #253341;
+    border: none;
+    color: #38444d;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: rgb(136, 153, 166);
+}
+
+.test::-webkit-input-placeholder {
+    color: rgb(136, 153, 166) !important;
+}
+
+.test::-moz-placeholder { /* Firefox 18- */
+    color: rgb(136, 153, 166) !important;
+}
+
+.test::-moz-placeholder { /* Firefox 19+ */
+    color: rgb(136, 153, 166) !important;
+}
+
+.test::-ms-input-placeholder {
+    color: rgb(136, 153, 166) !important;
+}
+
+.search-form-round {
+    border-radius: 1rem;
+}
+
+.events {
+    background-color: #192734;
+    border-radius: 1rem;
+}
+
+.events-h {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+textarea {
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
+
+.text-area {
+    background-color: transparent;
+    border: none;
+    text-align: left;
+    color: rgb(136, 153, 166);
+}
+
+.text-area:focus {
+    background-color: transparent !important;
+    color: #ffffff !important;
+}
+
+.text-area::-webkit-input-placeholder {
+    color: #7d99a6 !important;
+}
+
+.text-area::-moz-placeholder { /* Firefox 18- */
+    color: #7d99a6 !important;
+}
+
+.text-area::-moz-placeholder { /* Firefox 19+ */
+    color: #7d99a6 !important;
+}
+
+.text-area::-ms-input-placeholder {
+    color: #7d99a6 !important;
+}
+
+.text-area-icon > i:hover {
+    box-shadow: 0 0 0 5px rgba(29, 161, 242, 0.1);
+    background-color: rgba(29, 161, 242, 0.1);
+    border-radius: 10%
+}
+
+.text-area-icon {
+    color: #18618e;
+}
+
+.get-tweet-icon {
+    color: #7d99a6 !important;
+}
+
+.is-liked {
+    color: #b21f2d !important;
+}
+
+.rand-people {
+    font-size: 13px;
+}
+
+.specialFile {
+    display: none;
+}
+
+.image-upload:hover {
+    box-shadow: 0 0 0 5px rgba(29, 161, 242, 0.1);
+    background-color: rgba(29, 161, 242, 0.1);
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.image-timeline {
+    border-radius: 5%;
+    width: 100%;
+    height: 200px;
+}
+
+.search-item-color {
+    background-color: #253341;
+}
+
+.scroll-search {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
+
+
+
+
